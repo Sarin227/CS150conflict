@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     cout<< "Hello World\n";
-    //More functions stuff conflict
+    cout<< "Wow\n";
+    // More code
     return 0;
 }
